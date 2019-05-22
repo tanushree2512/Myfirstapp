@@ -1,0 +1,13 @@
+<resources>
+
+
+
+<string name="app_name">Myfirstapp</string>
+<string name="first">hello world</string>
+<string name="second">i am a great developer</string>
+
+<string name="Button">check</string>
+
+    <string name="new_second">you are a new beginnner</string>
+    <string name="new_third">lets go</string>
+</resources>
